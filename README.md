@@ -1,4 +1,4 @@
-# Machine Learning Notebooks 📓🤖
+# Machine Learning Notebooks - Focussed on CNNs 📓🤖
 
 Welcome to this repository of Jupyter Notebooks where I explore and document key concepts, techniques, and models in **Machine Learning** and **Artificial Intelligence**. Each notebook is designed to be beginner-friendly yet informative, covering both theory and implementation.
 
